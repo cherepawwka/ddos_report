@@ -1,4 +1,4 @@
-# ddos_report
+# DDoS report script
 Script helping to automate imformation gathering about IPs from DDoS sources list
 
 ---
